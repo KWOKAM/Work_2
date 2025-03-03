@@ -1,0 +1,54 @@
+/* Styles par défaut */
+#map {
+    height: 500px;
+    width: 100%;
+}
+
+#searchInput {
+    width: 300px;
+    padding: 10px;
+    margin: 20px;
+}
+
+#suggestions {
+    list-style: none;
+    padding: 0;
+    margin: 20px;
+    width: 300px;
+    border: 1px solid #ccc;
+}
+
+/* Styles pour les écrans plus petits (par exemple, les téléphones mobiles) */
+@media (max-width: 600px) {
+    #map {
+        height: 300px; /* Réduire la hauteur de la carte */
+    }
+
+    #searchInput {
+        width: 90%; /* Ajuster la largeur du champ de recherche */
+        margin: 10px auto; /* Centrer le champ de recherche */
+        display: block; /* S'assurer qu'il prend toute la largeur */
+    }
+
+    #suggestions {
+        width: 90%; /* Ajuster la largeur de la liste de suggestions */
+        margin: 10px auto; /* Centrer la liste de suggestions */
+    }
+}
+
+/* Styles pour les tablettes */
+@media (min-width: 601px) and (max-width: 1024px) {
+    #map {
+        height: 400px; /* Ajuster la hauteur de la carte */
+    }
+
+    #searchInput {
+        width: 50%; /* Ajuster la largeur du champ de recherche */
+        margin: 15px auto; /* Centrer le champ de recherche */
+    }
+
+    #suggestions {
+        width: 50%; /* Ajuster la largeur de la liste de suggestions */
+        margin: 15px auto; /* Centrer la liste de suggestions */
+    }
+}
