@@ -1,0 +1,112 @@
+[
+    {
+      "title": "Vertigo",
+      "year": 1958,
+      "genre": "Thriller",
+      "actors": "James Stewart, Kim Novak",
+      "locations": {
+        "lat": 37.7675,
+        "lng": -122.4833,
+        "address": "Mission Dolores"
+      }
+    },
+    {
+      "title": "Bullitt",
+      "year": 1968,
+      "genre": "Action, thriller",
+      "actors": "Steve McQueen",
+      "locations": {
+        "lat": 37.7952,
+        "lng": -122.4028,
+        "address": "Taylor and Vallejo Streets"
+      }
+    },
+    {
+      "title": "Dirty Harry",
+      "year": 1971,
+      "genre": "Policier, thriller",
+      "actors": "Clint Eastwood",
+      "locations": {
+        "lat": 37.7833,
+        "lng": -122.4167,
+        "address": "Washington Square Park"
+      }
+    },
+    {
+      "title": "The Conversation",
+      "year": 1974,
+      "genre": "Thriller",
+      "actors": "Gene Hackman",
+      "locations": {
+        "lat": 37.7883,
+        "lng": -122.4083,
+        "address": "Union Square"
+      }
+    },
+    {
+      "title": "Escape from Alcatraz",
+      "year": 1979,
+      "genre": "Thriller, drame",
+      "actors": "Clint Eastwood",
+      "locations": {
+        "lat": 37.8267,
+        "lng": -122.4233,
+        "address": "Alcatraz Island"
+      }
+    },
+    {
+      "title": "Mrs. Doubtfire",
+      "year": 1993,
+      "genre": "Comédie",
+      "actors": "Robin Williams",
+      "locations": {
+        "lat": 37.7900,
+        "lng": -122.4333,
+        "address": "Steiner Street"
+      }
+    },
+    {
+      "title": "The Rock",
+      "year": 1996,
+      "genre": "Action, thriller",
+      "actors": "Sean Connery, Nicolas Cage",
+      "locations": {
+        "lat": 37.8267,
+        "lng": -122.4233,
+        "address": "Alcatraz Island"
+      }
+    },
+    {
+      "title": "Zodiac",
+      "year": 2007,
+      "genre": "Thriller, policier",
+      "actors": "Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo",
+      "locations": {
+        "lat": 37.7749,
+        "lng": -122.4194,
+        "address": "San Francisco"
+      }
+    },
+    {
+      "title": "Milk",
+      "year": 2008,
+      "genre": "Biographique, drame",
+      "actors": "Sean Penn",
+      "locations": {
+        "lat": 37.7617,
+        "lng": -122.4350,
+        "address": "Castro District"
+      }
+    },
+    {
+      "title": "Rise of the Planet of the Apes",
+      "year": 2011,
+      "genre": "Science-fiction, action",
+      "actors": "James Franco, Andy Serkis",
+      "locations": {
+        "lat": 37.8199,
+        "lng": -122.4783,
+        "address": "Golden Gate Bridge"
+      }
+    }
+  ]
